@@ -1,0 +1,43 @@
+.rounded-circle{
+    float: left;
+}
+
+.rev p{
+    font-size: 1.5rem;
+}
+
+.bi-envelope,
+.bi-telephone,
+.bi-chat-dots{
+    font-size: 3rem;
+}
+
+.bi-facebook,
+.bi-instagram{
+    font-size: 2rem;
+    padding: 1rem;
+    color: ghostwhite;
+}
+
+.bi-facebook:hover,
+.bi-instagram:hover{
+    color: #dee0e4de;
+}
+
+.phone{
+    border-left: 0.1rem solid #dee0e4de;
+    border-right: 0.1rem solid #dee0e4de;
+}
+
+@media only screen and (max-width: 760px){
+    .phone{
+        border-top: 0.1rem solid #dee0e4de;
+        border-bottom: 0.1rem solid #dee0e4de;
+        border-left: none;
+        border-right: none;
+    }
+}
+
+.table, th, td{
+    border: 0.1rem solid ghostwhite;
+}

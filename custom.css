@@ -1,0 +1,44 @@
+.bg-primary{
+    background-color: ghostwhite !important;
+}
+
+.bg-dark{
+    background-color: #2b4c7e !important;
+}
+
+.text-primary{
+    color: #2b4c7e !important;
+}
+
+.nav-link:hover{
+    color: white !important;
+}
+
+.img-thumbnail{
+    border: none;
+    background-color: transparent;
+}
+
+.bg-secondary{
+    background-color: #dee0e471 !important;
+}
+
+.carousel-caption{
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.btn{
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover{
+    border-color: #332D2D;
+    background-color: transparent;
+    color: #332D2D;
+}
+
+.btn-hover:hover{
+    background-color: ghostwhite;
+}
